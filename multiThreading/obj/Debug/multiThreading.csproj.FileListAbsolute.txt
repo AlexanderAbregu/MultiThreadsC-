@@ -1,0 +1,6 @@
+c:\users\aabregu\documents\visual studio 2013\Projects\multiThreading\multiThreading\bin\Debug\multiThreading.exe.config
+c:\users\aabregu\documents\visual studio 2013\Projects\multiThreading\multiThreading\bin\Debug\multiThreading.exe
+c:\users\aabregu\documents\visual studio 2013\Projects\multiThreading\multiThreading\bin\Debug\multiThreading.pdb
+c:\users\aabregu\documents\visual studio 2013\Projects\multiThreading\multiThreading\obj\Debug\multiThreading.csprojResolveAssemblyReference.cache
+c:\users\aabregu\documents\visual studio 2013\Projects\multiThreading\multiThreading\obj\Debug\multiThreading.exe
+c:\users\aabregu\documents\visual studio 2013\Projects\multiThreading\multiThreading\obj\Debug\multiThreading.pdb
